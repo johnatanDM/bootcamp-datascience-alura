@@ -27,4 +27,5 @@ Exploramos também os dados de Internações para tratamento da Dengue :mosquito
 
 * Alura :blue_heart:, por um curso excelente um material incrível!
 * Equipe Scubateam :diving_mask:, pela paciência e dedicação! 
+* Equipe StudentExperience :man_student:, por todo suporte!
 * Colegas 🤓, por toda ajuda, brincadeiras e parceria!
