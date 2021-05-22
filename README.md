@@ -22,3 +22,9 @@ Pode usar o Google Colaboratory (Colab para os ítimos) que já te oferece um Ju
 Nesse módulo trabalhamos com os dados do [TABNET](http://tabnet.datasus.gov.br). Um sistema do Governo Federal 🇧🇷 que disponibiliza dados do SUS :woman_health_worker:. Focando nos gastos hospitalares :hospital: em cada Unidade da Federação.
 
 Exploramos também os dados de Internações para tratamento da Dengue :mosquito:.
+
+## 🎁 Agradecimento
+
+* Alura :blue_heart:, por um curso excelente um material incrível!
+* Equipe Scubateam :diving_mask:, pela paciência e dedicação! 
+* Colegas 🤓, por toda ajuda, brincadeiras e parceria!
