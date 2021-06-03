@@ -5,7 +5,7 @@ Os datasets que não estão nesse repositório foram importados diretamente do g
 
 
 ## :sweat_drops: Preparando ambiente
-Esses projetos foram feitos em Python :snake: utilizando Jupiter Notebook. Que você pode instalar utilizando qualquer método de instalação do Python e Jupiter Notebook que preferir. 
+Esses projetos foram feitos em Python :snake: utilizando Jupyter Notebook. Que você pode instalar utilizando qualquer método de instalação do Python e Jupyter Notebook que preferir. 
 
 Maaaaaasss...
 
@@ -17,12 +17,15 @@ Pode usar o Google Colaboratory (Colab para os ítimos) que já te oferece um Ju
 * [Matplotlib](https://matplotlib.org)
 * [Numpy](https://numpy.org)
 
+Mais detalhes no arquivo 'requirements.txt'
+
 ## :scroll: Módulos
 ### :money_with_wings: Módulo 1
 Nesse módulo trabalhamos com os dados do [TABNET](http://tabnet.datasus.gov.br). Um sistema do Governo Federal 🇧🇷 que disponibiliza dados do SUS :woman_health_worker:. Focando nos gastos hospitalares :hospital: em cada Unidade da Federação.
 
 Exploramos também os dados de Internações para tratamento da Dengue :mosquito:.
 
+[Notebook](https://colab.research.google.com/drive/1dis9uwwcYwJ_Cc8kKhfQVpRFOci1izCU?usp=sharing):notebook:
 ## 🎁 Agradecimento
 
 * Alura :blue_heart:, por um curso excelente um material incrível!
