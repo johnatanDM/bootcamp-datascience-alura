@@ -16,14 +16,22 @@ Pode usar o Google Colaboratory (Colab para os ítimos) que já te oferece um Ju
 * [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
 * [Matplotlib](https://matplotlib.org)
 * [Numpy](https://numpy.org)
+* [StringIO](https://docs.python.org/2/library/stringio.html)
+* [Seaborn](https://seaborn.pydata.org)
+* [Datetime](https://docs.python.org/3/library/datetime.html)
 
-Mais detalhes no arquivo 'requirements.txt'
+Mais detalhes no arquivo 'requirements.txt' em cada módulo
 
 ## :scroll: Módulos
 ### :money_with_wings: Módulo 1
 Nesse módulo trabalhamos com os dados do [TABNET](http://tabnet.datasus.gov.br). Um sistema do Governo Federal 🇧🇷 que disponibiliza dados do SUS :woman_health_worker:. Focando nos gastos hospitalares :hospital: em cada Unidade da Federação.
 
 Exploramos também os dados de Internações para tratamento da Dengue :mosquito:.
+
+### :bar_chart: Módulo 2
+Nesse módulo continuamos a trabalar com os dados do [TABNET](http://tabnet.datasus.gov.br), focando em melhorar nossas visualizações com novas bibliotecas e outras técnicas.
+
+Vimos também outras formas de buscar dados de outras fontes.
 
 [Notebook](https://colab.research.google.com/drive/1dis9uwwcYwJ_Cc8kKhfQVpRFOci1izCU?usp=sharing):notebook:
 ## 🎁 Agradecimento
