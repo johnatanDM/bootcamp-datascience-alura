@@ -27,13 +27,14 @@ Mais detalhes no arquivo 'requirements.txt' em cada módulo
 Nesse módulo trabalhamos com os dados do [TABNET](http://tabnet.datasus.gov.br). Um sistema do Governo Federal 🇧🇷 que disponibiliza dados do SUS :woman_health_worker:. Focando nos gastos hospitalares :hospital: em cada Unidade da Federação.
 
 Exploramos também os dados de Internações para tratamento da Dengue :mosquito:.
+[Notebook](https://colab.research.google.com/drive/1dis9uwwcYwJ_Cc8kKhfQVpRFOci1izCU?usp=sharing):notebook:
 
 ### :bar_chart: Módulo 2
 Nesse módulo continuamos a trabalar com os dados do [TABNET](http://tabnet.datasus.gov.br), focando em melhorar nossas visualizações com novas bibliotecas e outras técnicas.
 
 Vimos também outras formas de buscar dados de outras fontes.
+[Notebook](https://colab.research.google.com/drive/1Lw_jzYEoAHx8tqml-Pt5LtxC1rngnU7E?usp=sharing):notebook:
 
-[Notebook](https://colab.research.google.com/drive/1dis9uwwcYwJ_Cc8kKhfQVpRFOci1izCU?usp=sharing):notebook:
 ## 🎁 Agradecimento
 
 * Alura :blue_heart:, por um curso excelente um material incrível!
